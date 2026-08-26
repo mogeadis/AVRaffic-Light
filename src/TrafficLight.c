@@ -5,11 +5,11 @@
  * 
  * @author Alexandros Iliadis (https://github.com/mogeadis)
  * @version 1.0.0
- * @date 03-02-2026
+ * @date February 2026
  */
 
 #include "TrafficLight.h"
-#include "CONFIG.h"
+#include "config.h"
 #include "Display.h"
 #include "LED.h"
 #include "Timer.h"
@@ -98,7 +98,7 @@ void TrafficLight_update(TrafficLight_t* tl,uint32_t now)
     // Check Button-Released Flag
     if(tl->button_released)
     {
-        // Set Decimal Point LED to ON
+        // Set Decimal Point LED to OFF
         Display_setDecimalPoint(&tl->disp,0);
 
         // Clear Button-Released Flag

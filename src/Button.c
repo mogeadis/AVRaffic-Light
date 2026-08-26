@@ -5,11 +5,11 @@
  * 
  * @author Alexandros Iliadis (https://github.com/mogeadis)
  * @version 1.0.0
- * @date 03-02-2026
+ * @date February 2026
  */
 
 #include "Button.h"
-#include "CONFIG.h"
+#include "config.h"
 #include "GPIO.h"
 #include "UART.h"
 

@@ -5,10 +5,10 @@
  * 
  * @author Alexandros Iliadis (https://github.com/mogeadis)
  * @version 1.0.0
- * @date 03-02-2026
+ * @date February 2026
  */
 
-#include "CONFIG.h"
+#include "config.h"
 #include "ADC.h"
 #include "Button.h"
 #include "IRQ.h"
