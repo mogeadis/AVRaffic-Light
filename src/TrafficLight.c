@@ -1,7 +1,7 @@
 /**
  * @file TrafficLight.c
  * 
- * @brief `AVRaffic Light` Project: Traffic Light Implementation
+ * @brief `AVRaffic Light`: Traffic Light Implementation
  * 
  * @author Alexandros Iliadis (https://github.com/mogeadis)
  * @version 1.0.0

@@ -1,7 +1,7 @@
 /**
  * @file LED.c
  * 
- * @brief `AVRaffic Light` Project: LED Implementation
+ * @brief `AVRaffic Light`: LED Implementation
  * 
  * @author Alexandros Iliadis (https://github.com/mogeadis)
  * @version 1.0.0

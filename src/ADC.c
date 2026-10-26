@@ -1,7 +1,7 @@
 /**
  * @file ADC.c
  * 
- * @brief `AVRaffic Light` Project: Analog-to-Digital Converter Implementation
+ * @brief `AVRaffic Light`: Analog-to-Digital Converter Implementation
  * 
  * @author Alexandros Iliadis (https://github.com/mogeadis)
  * @version 1.0.0

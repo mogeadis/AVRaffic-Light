@@ -1,7 +1,7 @@
 /**
  * @file Display.h
  * 
- * @brief `AVRaffic Light` Project: Display Interface
+ * @brief `AVRaffic Light`: Display Interface
  * 
  * @author Alexandros Iliadis (https://github.com/mogeadis)
  * @version 1.0.0

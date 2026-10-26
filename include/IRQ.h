@@ -1,7 +1,7 @@
 /**
  * @file IRQ.h
  * 
- * @brief `AVRaffic Light` Project: Interrupt Request Interface
+ * @brief `AVRaffic Light`: Interrupt Request Interface
  * 
  * @author Alexandros Iliadis (https://github.com/mogeadis)
  * @version 1.0.0

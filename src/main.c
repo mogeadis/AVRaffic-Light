@@ -1,7 +1,7 @@
 /**
  * @file main.c
  * 
- * @brief `AVRaffic Light` Project: Main File
+ * @brief `AVRaffic Light`: Main File
  * 
  * @author Alexandros Iliadis (https://github.com/mogeadis)
  * @version 1.0.0

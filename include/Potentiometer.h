@@ -1,7 +1,7 @@
 /**
  * @file Potentiometer.h
  * 
- * @brief `AVRaffic Light` Project: Potentiometer Interface
+ * @brief `AVRaffic Light`: Potentiometer Interface
  * 
  * @author Alexandros Iliadis (https://github.com/mogeadis)
  * @version 1.0.0

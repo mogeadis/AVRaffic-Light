@@ -1,7 +1,7 @@
 /**
  * @file GPIO.h
  * 
- * @brief `AVRaffic Light` Project: General Purpose Input/Output Abstraction Layer
+ * @brief `AVRaffic Light`: General Purpose Input/Output Abstraction Layer
  * 
  * @author Alexandros Iliadis (https://github.com/mogeadis)
  * @version 1.0.0

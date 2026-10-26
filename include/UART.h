@@ -1,7 +1,7 @@
 /**
  * @file UART.h
  * 
- * @brief `AVRaffic Light` Project: Universal Asynchronous Receiver/Transmitter Interface
+ * @brief `AVRaffic Light`: Universal Asynchronous Receiver/Transmitter Interface
  * 
  * @author Alexandros Iliadis (https://github.com/mogeadis)
  * @version 1.0.0

@@ -1,7 +1,7 @@
 /**
  * @file config.h
  * 
- * @brief `AVRaffic Light` Project: Configuration File
+ * @brief `AVRaffic Light`: Configuration File
  * 
  * @author Alexandros Iliadis (https://github.com/mogeadis)
  * @version 1.0.0

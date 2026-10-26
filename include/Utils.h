@@ -1,7 +1,7 @@
 /**
  * @file Utils.h
  * 
- * @brief `AVRaffic Light` Project: Utility Functions
+ * @brief `AVRaffic Light`: Utility Functions
  * 
  * @author Alexandros Iliadis (https://github.com/mogeadis)
  * @version 1.0.0

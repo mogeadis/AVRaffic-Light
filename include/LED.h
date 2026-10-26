@@ -1,7 +1,7 @@
 /**
  * @file LED.h
  * 
- * @brief `AVRaffic Light` Project: LED Interface
+ * @brief `AVRaffic Light`: LED Interface
  * 
  * @author Alexandros Iliadis (https://github.com/mogeadis)
  * @version 1.0.0

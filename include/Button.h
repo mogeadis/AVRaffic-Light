@@ -1,7 +1,7 @@
 /**
  * @file Button.h
  * 
- * @brief `AVRaffic Light` Project: Button Interface
+ * @brief `AVRaffic Light`: Button Interface
  * 
  * @author Alexandros Iliadis (https://github.com/mogeadis)
  * @version 1.0.0

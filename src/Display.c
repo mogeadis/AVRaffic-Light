@@ -1,7 +1,7 @@
 /**
  * @file Display.c
  * 
- * @brief `AVRaffic Light` Project: Display Implementation
+ * @brief `AVRaffic Light`: Display Implementation
  * 
  * @author Alexandros Iliadis (https://github.com/mogeadis)
  * @version 1.0.0

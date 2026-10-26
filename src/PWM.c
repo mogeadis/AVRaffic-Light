@@ -1,7 +1,7 @@
 /**
  * @file PWM.c
  * 
- * @brief `AVRaffic Light` Project: Pulse Width Modulation Implementation
+ * @brief `AVRaffic Light`: Pulse Width Modulation Implementation
  * 
  * @author Alexandros Iliadis (https://github.com/mogeadis)
  * @version 1.0.0

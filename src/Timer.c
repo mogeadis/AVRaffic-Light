@@ -1,7 +1,7 @@
 /**
  * @file Timer.c
  * 
- * @brief `AVRaffic Light` Project: Timer Implementation
+ * @brief `AVRaffic Light`: Timer Implementation
  * 
  * @author Alexandros Iliadis (https://github.com/mogeadis)
  * @version 1.0.0
